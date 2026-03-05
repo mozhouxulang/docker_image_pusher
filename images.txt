@@ -1,2 +1,8 @@
+b3log/siyuan
+tomcat
+bitnami_postgresql
+bitnami_redis
+adguardhome
+node
 nginx
 mysql
